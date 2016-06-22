@@ -1,6 +1,6 @@
 name             'prerequisites'
-maintainer       'YOUR_COMPANY_NAME'
-maintainer_email 'YOUR_EMAIL'
+maintainer       'tashinfrus'
+maintainer_email 'tushdudhade@gmail.com'
 license          'All rights reserved'
 description      'Installs/Configures prerequisites'
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
