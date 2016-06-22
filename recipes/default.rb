@@ -1,10 +1,3 @@
-#
-# Cookbook Name:: prerequisites
-# Recipe:: default
-#
-# Copyright 2016, YOUR_COMPANY_NAME
-#
-# All rights reserved - Do Not Redistribute
-#
-
-#Left intentionally blank
+package ["libreadline-dev","libncurses5-dev", "libpcre3-dev", "libssl-dev", "perl", "make"] do
+  action :install
+end
